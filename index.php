@@ -5,14 +5,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./styles/style.css">
-  <title>Page principale</title>
-  <?php include './global/header.php' ?>
+  <script src="https://kit.fontawesome.com/e81d1ff127.js" crossorigin="anonymous"></script>
+  <title>Page d'acceuil</title>
 </head>
-<body>
-  <h1>Bienvenue dans notre site</h1>
-  <h2>Vous pouvez faire vos achats ici</h2>
+<body>  
+      <div class="navbar">
+        <nav>
+          <h2 class="logo">sen Car</h2>
+          <ul>
+            <li><a href="">Acceuil</a></li>
+            <li><a href="">A propos</a></li>
+            <li><a href="">Service</a></li>
+            <li><a href="">Contact</a></li>
+          </ul>
+          <button>S'inscrire</button>
+        </nav>
+      </div>
 </body>
-<?php 
-  include './global/footer.php';
-?>
 </html>

@@ -9,5 +9,4 @@
 <body>
   
 </body>
-<p>Abonnez vous sur nos sites</p>
 </html>
