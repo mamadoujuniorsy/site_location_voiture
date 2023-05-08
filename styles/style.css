@@ -10,9 +10,7 @@
   background-size: cover;
   background-position: center;
 }
-h2{
-  color: blue;
-}
+
 nav{
   display: flex;
   align-items: center;
@@ -21,4 +19,9 @@ nav{
   padding-right: 10%;
   padding-left: 10%;
 }
-
+li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
