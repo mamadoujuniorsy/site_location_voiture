@@ -8,17 +8,8 @@
   <title>Page d'acceuil</title>
 </head>
 <body>  
-      <div class="navbar">
-        <nav>
-          <h2 class="logo">sen Car</h2>
-          <ul>
-            <li><a href="">Acceuil</a></li>
-            <li><a href="">A propos</a></li>
-            <li><a href="">Service</a></li>
-            <li><a href="">Contact</a></li>
-          </ul>
-          <button>S'inscrire</button>
-        </nav>
-      </div>
+<?php 
+  include './global/header.php'
+?>
 </body>
 </html>

@@ -8,6 +8,17 @@
      
 </head>
 <body>
-  
+<div class="navbar">
+        <nav>
+          <h2 class="logo">sen <span>Car</span></h2>
+          <ul>
+            <li><a href="">Acceuil</a></li>
+            <li><a href="">A propos</a></li>
+            <li><a href="">Service</a></li>
+            <li><a href="">Contact</a></li>
+          </ul>
+          <button class="subscribe-btn">S'inscrire</button>
+        </nav>
+      </div>
 </body>
 </html>
